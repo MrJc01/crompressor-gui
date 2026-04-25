@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/MrJc01/crompressor/internal/network"
+	"github.com/MrJc01/crompressor/pkg/network"
 )
 
 type DefaultSwarm struct {

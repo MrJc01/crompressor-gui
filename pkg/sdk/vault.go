@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/MrJc01/crompressor/internal/vfs"
+	"github.com/MrJc01/crompressor/pkg/vfs"
 )
 
 type DefaultVault struct {

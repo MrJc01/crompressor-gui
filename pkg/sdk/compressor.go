@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/MrJc01/crompressor/internal/trainer"
+	"github.com/MrJc01/crompressor/pkg/trainer"
 	"github.com/MrJc01/crompressor/pkg/cromlib"
 )
 

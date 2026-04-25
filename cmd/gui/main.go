@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/MrJc01/crompressor/pkg/sdk"
+	"github.com/MrJc01/crompressor-gui/pkg/sdk"
 	"github.com/gorilla/websocket"
 	"github.com/zserge/lorca"
 )
